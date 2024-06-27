@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**ssmiguelangel/ssmiguelangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Medical Doctor from Mexico, I am always learning as I understand learning as a way of knowing more about the Creator and, enjoying its grace. It is primarily a sort of teological endeavor and at the same time a toolbox of skills aimed to solve suffering and disease, in a practical sense as well as in a Deep sense of understanding the entropic focus antagonist of the "aureal" fractalization of matter and energy, if we consider them as different.
+
+I have found there is a special way in which everything holds on and evolve. that way is beautiful, full of enjoyment, pleasing, and everything we appreciate in life, and when there is some sort of obstacle or misplace of the flux, disease and all kinds of undesirable things emerge. Finding where that happens, particularly when the expresion of that afflicted flux is in a acute disease, is the spirit of medicine, being aware of the poetic nature of this description licensed in the art of the language expresion, if I may... 
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
