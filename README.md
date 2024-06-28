@@ -7,9 +7,10 @@ I have found there is a special way in which everything holds on and evolve. tha
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- I'm interested in developing a PWA
-- I want to create a epidemiological surveillance accesible to all
-- As well I want to develope an app with spaced repetition notes
+  - I'm interested in developing a PWA
+  - I want to create a epidemiological surveillance accesible to all
+  - As well I want to develope an app with spaced repetition notes
+  - After a lot of years I'm runing a windows PC, because my macbook was stolen but, I'm considering to acquire a macbook because I get used to it... i think both complement eachother well, therefore I need to start saving money...
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
